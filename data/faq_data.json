@@ -1,0 +1,7 @@
+{
+  "cobertura": "A cobertura depende do tipo de plano contratado. Normalmente consultas, exames e internações estão incluídos.",
+  "reembolso": "O reembolso ocorre quando o beneficiário utiliza um prestador fora da rede credenciada.",
+  "carencia": "Carência é o período inicial em que alguns procedimentos ainda não podem ser utilizados.",
+  "rede": "A rede credenciada inclui hospitais, clínicas e laboratórios parceiros do plano.",
+  "geral": "Posso ajudar com dúvidas sobre cobertura, reembolso, carência ou funcionamento do plano."
+}
