@@ -83,25 +83,24 @@ O sistema também inclui recursos para tornar a experiência mais inclusiva:
 
 ## Estrutura do projeto
 
+```bash
 healthguide-ai/
+├── app.py
+├── requirements.txt
+├── README.md
+├── .gitignore
+├── data/
+│   ├── faq_data.json
+│   └── planos.json
+├── models/
+│   └── intent_classifier.py
+├── services/
+│   ├── chat_service.py
+│   └── simulador_reembolso.py
+└── utils/
+    └── context_manager.py
+```
 
-app.py
-requirements.txt
-README.md
-
-data/
-faq_data.json
-planos.json
-
-models/
-intent_classifier.py
-
-services/
-chat_service.py
-simulador_reembolso.py
-
-utils/
-context_manager.py
 
 ## Como executar
 
@@ -115,7 +114,7 @@ streamlit run app.py
 
 ### 3 Abrir no navegador
 
-http://localhost:8501
+[https://tinyurl.com/guiasaudemais]
 
 ## Exemplos de perguntas
 
