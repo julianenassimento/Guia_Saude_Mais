@@ -114,7 +114,7 @@ streamlit run app.py
 
 ### 3 Abrir no navegador
 
-[https://tinyurl.com/guiasaudemais]
+[https://guiasaudemais.streamlit.app/]
 
 ## Exemplos de perguntas
 
@@ -133,6 +133,7 @@ streamlit run app.py
 ## 👩‍💻 Autora
 
 Juliane Nascimento  
+Estagiária na Bradesco Saúde
 Bootcamp GenAI & Dados
 
 "Projeto educacional desenvolvido no contexto do Bootcamp GenAI & Dados (DIO). Uso da marca Bradsaúde apenas como referência pública ao ecossistema anunciado pelo Grupo Bradesco."
