@@ -1,0 +1,11 @@
+{
+  "premium": {
+    "consulta": 350
+  },
+  "top": {
+    "consulta": 250
+  },
+  "basico": {
+    "consulta": 150
+  }
+}
