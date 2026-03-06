@@ -63,6 +63,16 @@ O sistema mantém informações durante a conversa:
 - última pergunta
 - histórico
 
+### Acessibilidade
+
+O sistema também inclui recursos para tornar a experiência mais inclusiva:
+
+- modo de alto contraste
+- opção de fonte ampliada
+- leitura em voz da última resposta (TTS em PT-BR)
+- botão para interromper a leitura em voz
+- integração com VLibras para suporte em Libras
+
 ## Tecnologias utilizadas
 
 - Python
