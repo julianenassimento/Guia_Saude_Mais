@@ -1,12 +1,12 @@
 # 🩺 Guia Saúde + 
 
-Assistente inteligente para navegação em planos de saúde usando IA, NLP e simulações em Python.
+Assistente digital inteligente, construído com IA generativa, processamento de linguagem natural e simulações em Phyton, voltado para o novo ecossistema integrado da Bradsaúde. 
 
 Projeto desenvolvido como desafio final do Bootcamp **GenAI & Dados - Bradesco + DIO**.
 
 ## Objetivo
 
-Criar uma experiência digital de relacionamento com beneficiários de planos de saúde utilizando:
+Melhorar significativamente a experiência do beneficiário, oferecendo informações claras, seguras, contextuais e integradas, alinhadas a nova estrutura, utilizando:
 
 - compreensão de linguagem natural
 - respostas contextualizadas
