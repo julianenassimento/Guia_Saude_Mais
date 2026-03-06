@@ -1,0 +1,127 @@
+# 🩺 Guia Saúde + 
+
+Assistente inteligente para navegação em planos de saúde usando IA, NLP e simulações em Python.
+
+Projeto desenvolvido como desafio final do Bootcamp **GenAI & Dados - Bradesco + DIO**.
+
+## Objetivo
+
+Criar uma experiência digital de relacionamento com beneficiários de planos de saúde utilizando:
+
+- compreensão de linguagem natural
+- respostas contextualizadas
+- simulações simples
+- boas práticas de UX
+
+O assistente ajuda usuários a entender melhor seu plano de saúde, respondendo dúvidas comuns sobre:
+
+- cobertura
+- reembolso
+- carência
+- rede credenciada
+- funcionamento do plano
+
+## Funcionalidades
+
+### Chat inteligente
+Usuário pode perguntar em linguagem natural:
+
+Exemplos:
+
+- "Meu plano cobre ressonância?"
+- "Como funciona reembolso?"
+- "Tenho direito a consulta com especialista?"
+
+### Classificação de intenção
+
+O sistema identifica automaticamente o tipo de pergunta:
+
+- cobertura
+- reembolso
+- rede médica
+- carência
+- geral
+
+### Simulação de reembolso
+
+Usuário pode informar o valor de uma consulta e receber uma estimativa de reembolso.
+
+Exemplo:
+
+Consulta: R$500  
+Plano: Premium
+
+Resposta:
+
+Estimativa de reembolso: R$350
+
+### Memória de contexto
+
+O sistema mantém informações durante a conversa:
+
+- plano informado
+- última pergunta
+- histórico
+
+## Tecnologias utilizadas
+
+- Python
+- Streamlit
+- Scikit-learn
+- Pandas
+- JSON
+
+## Estrutura do projeto
+
+healthguide-ai/
+
+app.py
+requirements.txt
+README.md
+
+data/
+faq_data.json
+planos.json
+
+models/
+intent_classifier.py
+
+services/
+chat_service.py
+simulador_reembolso.py
+
+utils/
+context_manager.py
+
+## Como executar
+
+### 1 Instalar dependências
+
+pip install -r requirements.txt
+
+### 2 Rodar o projeto
+
+streamlit run app.py
+
+### 3 Abrir no navegador
+
+http://localhost:8501
+
+## Exemplos de perguntas
+
+- "Meu plano cobre exame?"
+- "Quanto recebo de reembolso numa consulta de 400?"
+- "Tenho carência para exames?"
+- "Como funciona autorização?"
+
+## Melhorias futuras
+
+- integração com modelos LLM open-source
+- recomendação de rede credenciada
+- análise de histórico de perguntas
+- personalização por perfil do usuário
+
+## 👩‍💻 Autora
+
+Juliane Nascimento  
+Bootcamp GenAI & Dados
