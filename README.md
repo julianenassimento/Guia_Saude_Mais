@@ -1,6 +1,6 @@
 # 🩺 Guia Saúde + 
 
-Assistente digital inteligente, construído com IA generativa, processamento de linguagem natural e simulações em Phyton, voltado para o novo ecossistema integrado da Bradsaúde. 
+Assistente digital inteligente, construído com Machine Learning, processamento de linguagem natural e simulações em Phyton, voltado para o novo ecossistema integrado da Bradsaúde. 
 
 Projeto desenvolvido como desafio final do Bootcamp **GenAI & Dados - Bradesco + DIO**.
 
