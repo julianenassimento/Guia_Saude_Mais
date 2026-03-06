@@ -134,3 +134,5 @@ streamlit run app.py
 
 Juliane Nascimento  
 Bootcamp GenAI & Dados
+
+"Projeto educacional desenvolvido no contexto do Bootcamp GenAI & Dados (DIO). Uso da marca Bradsaúde apenas como referência pública ao ecossistema anunciado pelo Grupo Bradesco."
