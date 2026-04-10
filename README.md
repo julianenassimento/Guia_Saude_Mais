@@ -1,5 +1,7 @@
 # 🩺 Guia Saúde + 
 
+🎥 **Pitch do Projeto:** https://youtu.be/RNshe3BhvdY
+
 Assistente digital inteligente, construído com machine learning, processamento de linguagem natural e simulações em Phyton, voltado para o novo ecossistema integrado da Bradsaúde. 
 
 Projeto desenvolvido como desafio final do Bootcamp **GenAI & Dados - Bradesco + DIO**.
